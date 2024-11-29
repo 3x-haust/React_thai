@@ -1,0 +1,92 @@
+{
+    "nav": {
+        "map": "Map",
+        "exhibition": "Exhibition",
+        "aboutUs": "About Us",
+        "language": "Language"
+    },
+    "welcome_title": "Welcome\nto Korea,\nMinburi\nstudents!",
+    "aboutUs": {
+        "birthday": "Birthday",
+        "kwak": {
+            "name": "Jakyeong Kwak",
+            "description": "Hello! Nice to meet you! You can text me😊 Be friend",
+            "mbti": "INTJ",
+            "birthday": "July 26, 2008"
+        },
+        "lyu": {
+            "name": "Sungyun Lyu",
+            "description": "test",
+            "mbti": "ISTP",
+            "birthday": "March 30, 2008"
+
+        },
+        "yun": {
+            "name": "Siwoong Yun",
+            "description": "Have a great day~",
+            "mbti": "ISFP",
+            "birthday": "October 18, 2008"
+        },
+        "yoon": {
+            "name": "Dakyung Yoon",
+            "description": "test",
+            "mbti": "ISTP",
+            "birthday": "August 9, 2008"
+        },
+        "jeong": {
+            "name": "Yeona Jeong",
+            "description": "I want to be a friend with you😻",
+            "mbti": "INTJ",
+            "birthday": "May 16, 2008"
+        }
+    },
+    "timeline": [
+        {
+            "title": "Gojoseon (Around 5000 BCE)",
+            "description": [
+                "First kingdom on the Korean Peninsula",
+                "Development of bronze culture",
+                "Established foundational Korean civilization"
+            ]
+        },
+        {
+            "title": "Unified Silla Period (676 CE)",
+            "description": [
+                "Unification of the Three Kingdoms by Silla",
+                "Golden age of Buddhist culture",
+                "Balhae Kingdom established in the north"
+            ]
+        },
+        {
+            "title": "Goryeo Dynasty (918 CE)",
+            "description": [
+                "Famous for celadon pottery",
+                "Buddhism as state religion",
+                "Development of aristocratic culture",
+                "Cultural and artistic achievements"
+            ]
+        },
+        {
+            "title": "Joseon Dynasty (1392 CE)",
+            "description": [
+                "Society organized based on Confucianism",
+                "Creation of Hangul (Korean alphabet) by King Sejong",
+                "500 years of stability and progress",
+                "Advancement in science and practical learning"
+            ]
+        }
+    ],
+    "exhibition": {
+        "1": {
+            "title": "Room of Quiet Contemplation"
+        },
+        "2": {
+            "subtitle": "Calligraphy and Painting",
+            "title": "Buddhist Painting"
+        },
+        "3": {
+            "subtitle": "World Art",
+            "title": "India and Southeast Asia"
+        }
+    }
+}
