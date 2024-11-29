@@ -7,7 +7,6 @@ import Home from './pages/Home';
 import AboutUs from './pages/AboutUs';
 import Map from './pages/Map';
 import Footer from './components/common/Footer';
-import Exhibition from './pages/Exhibition';
 
 const AppContainer = styled.div`
   display: flex;
@@ -28,7 +27,6 @@ const App: React.FC = () => {
           <Route path="/" element={<Home />} />
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/map" element={<Map />} />
-          <Route path="/exhibition" element={<Exhibition />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </MainContent>

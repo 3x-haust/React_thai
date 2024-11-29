@@ -19,8 +19,9 @@ const TimelineContainer = styled.div`
   background-color: #000;
   color: #fff;
   font-family: "Pretendard";
-  margin: 8% 0;
+  justify-content: center;
   padding: 0 27%;
+  margin-bottom: 200px;
 
   @media (max-width: 768px) {
     padding: 0 18%;
@@ -119,7 +120,7 @@ export default function TimelineComponent() {
           }
         });
       },
-      { threshold: 0.8 }
+      { threshold: 0.6 }
     );
 
     const elements = document.querySelectorAll(".event");

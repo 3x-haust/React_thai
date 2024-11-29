@@ -12,7 +12,7 @@ const Container = styled.div`
   display: flex;
   padding: 20px;
   margin-top: 150px;
-  margin-bottom: 300px;
+  margin-bottom: 400px;
 
   @media (max-width: 768px) {
     padding: 10px;
