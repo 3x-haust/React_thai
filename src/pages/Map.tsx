@@ -6,17 +6,17 @@ const Container = styled.div`
   justify-content: center;
   align-items: start;
   margin-top: 150px;
-  margin-bottom: 300px;
+  margin-bottom: 400px;
   gap: 15px;
 
   @media (max-width: 768px) {
     flex-direction: column;
     align-items: center;
-    margin-bottom: 350px;
+    margin-bottom: 450px;
   }
 `;
 
-const StyledImg = styled.img`
+const StyledImg = styled.img` 
   width: 80%;
   height: auto;
 

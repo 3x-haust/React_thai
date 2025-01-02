@@ -14,6 +14,7 @@ const Container = styled.div`
   position: relative;
   padding: 30px;
   margin-top: 100px;
+  margin-bottom: 200px;
 
   @media (min-width: 768px) {
     flex-direction: row;
